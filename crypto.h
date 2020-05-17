@@ -1,6 +1,5 @@
 /**********************
 Chidi Okpara
-Homework 4
 May 7, 2020
 Visual Studio 2019
 This program will encrypt a string.
